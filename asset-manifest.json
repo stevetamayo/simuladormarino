@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simuladormarino/static/css/main.44725e45.css",
+    "main.js": "/simuladormarino/static/js/main.212f1948.js",
+    "static/js/453.8460ef2c.chunk.js": "/simuladormarino/static/js/453.8460ef2c.chunk.js",
+    "index.html": "/simuladormarino/index.html",
+    "main.44725e45.css.map": "/simuladormarino/static/css/main.44725e45.css.map",
+    "main.212f1948.js.map": "/simuladormarino/static/js/main.212f1948.js.map",
+    "453.8460ef2c.chunk.js.map": "/simuladormarino/static/js/453.8460ef2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44725e45.css",
+    "static/js/main.212f1948.js"
+  ]
+}
