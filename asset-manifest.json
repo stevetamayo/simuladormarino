@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/simuladormarino/static/css/main.44725e45.css",
-    "main.js": "/simuladormarino/static/js/main.212f1948.js",
+    "main.js": "/simuladormarino/static/js/main.fd9d2804.js",
     "static/js/453.8460ef2c.chunk.js": "/simuladormarino/static/js/453.8460ef2c.chunk.js",
+    "static/media/yamaha.png": "/simuladormarino/static/media/yamaha.bf19a1af5d107d60adca.png",
+    "static/media/eduardono.png": "/simuladormarino/static/media/eduardono.678cf48f208ef7266931.png",
     "index.html": "/simuladormarino/index.html",
     "main.44725e45.css.map": "/simuladormarino/static/css/main.44725e45.css.map",
-    "main.212f1948.js.map": "/simuladormarino/static/js/main.212f1948.js.map",
+    "main.fd9d2804.js.map": "/simuladormarino/static/js/main.fd9d2804.js.map",
     "453.8460ef2c.chunk.js.map": "/simuladormarino/static/js/453.8460ef2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44725e45.css",
-    "static/js/main.212f1948.js"
+    "static/js/main.fd9d2804.js"
   ]
 }
