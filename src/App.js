@@ -133,7 +133,7 @@ export default function App() {
     <div className="logos">
       
       <img src="/yamaha.png" alt="yamaha" />
-
+      
       <div className="divider"></div>
 
       <img src="/eduardono.png" alt="eduardono" className="eduardo" />
@@ -226,7 +226,7 @@ export default function App() {
                       <th>Interés</th>
                       <th>Cuota sin Seguros</th>
                       <th>Seguro de Vida</th>
-                      <th>Todo Riesgo</th>
+                      <th>Seguro Todo Riesgo</th>
                       <th>Cuota Total</th>
                       <th>Saldo Final</th>
                     </tr>
