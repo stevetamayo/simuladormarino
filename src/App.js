@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import { productos } from "./data";
 import "./App.css";
+import yamahaLogo from "./yamaha.png";
+import eduardonoLogo from "./eduardono.png";
 
 function formatoCOP(valor) {
   return "$ " + Math.round(valor).toLocaleString("es-CO");
@@ -132,11 +134,11 @@ export default function App() {
     {/* DERECHA */}
     <div className="logos">
       
-      <img src="/yamaha.png" alt="yamaha" />
+      <img src={yamahaLogo} alt="yamaha" /> 
       
       <div className="divider"></div>
 
-      <img src="/eduardono.png" alt="eduardono" className="eduardo" />
+      <img src={eduardonoLogo} alt="eduardono" className="eduardo" />
 
     </div>
 
